@@ -1,9 +1,11 @@
 {
-    "id": "ObsidianAnkiSync",
-    "name": "Anki Sync",
+    "id": "obsidian-anki-sync-improved",
+    "name": "Anki Sync - Improved Templates",
     "version": "1.0.0",
-    "description": "Obsidian plugin to make flashcards and sync them to Anki.",
-    "author": "debanjandhar12",
-    "authorUrl": "https://github.com/debanjandhar12",
+    "description": "Obsidian plugin to make flashcards and sync them to Anki. Fork of ObsidianAnkiSync by debanjandhar12, with improved card templates.",
+    "author": "Nikola Nenovski",
+    "authorUrl": "https://github.com/Nickslabcode",
+    "originalAuthor": "debanjandhar12",
+    "originalAuthorUrl": "https://github.com/debanjandhar12",
     "isDesktopOnly": true
-  }
+}

@@ -1,4 +1,5 @@
 {
+    "name": "obsidian-anki-sync-improved",
     "private": true,
     "scripts": {
         "dev": "rollup --config rollup.config.js -w",
